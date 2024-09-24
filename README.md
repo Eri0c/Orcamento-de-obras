@@ -23,5 +23,5 @@ Siga os passos abaixo para configurar o projeto em sua máquina local:
 
 1. **Clone o repositório**:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
-   cd seu-repositorio
+   git clone https://github.com/Eri0c/Orcamento-de-obras
+ 
